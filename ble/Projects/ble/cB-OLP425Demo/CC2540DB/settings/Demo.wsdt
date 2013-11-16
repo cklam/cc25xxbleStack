@@ -17,7 +17,7 @@
     </Static>
     <Windows>
       
-    <Wnd1>
+    <Wnd0>
         <Tabs>
           <Tab>
             <Identity>TabID-20223-11930</Identity>
@@ -29,7 +29,7 @@
           </Tab>
         </Tabs>
         
-      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+      <SelectedTab>0</SelectedTab></Wnd0></Windows>
     <Editor>
       
       
@@ -42,7 +42,7 @@
       
       
       
-    <Top><Row0><Sizes><Toolbar-011aacd8><key>iaridepm.enu1</key></Toolbar-011aacd8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>740</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>115141</sizeHorzCX><sizeHorzCY>253807</sizeHorzCY><sizeVertCX>115141</sizeVertCX><sizeVertCY>941624</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+    <Top><Row0><Sizes><Toolbar-00d0c420><key>iaridepm.enu1</key></Toolbar-00d0c420></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>740</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>115141</sizeHorzCX><sizeHorzCY>253807</sizeHorzCY><sizeVertCX>115141</sizeVertCX><sizeVertCY>941624</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
   </Desktop>
 </Workspace>
 
